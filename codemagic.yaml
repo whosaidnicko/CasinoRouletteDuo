@@ -13,8 +13,8 @@ workflows:
          - certificate: certfordisetsa
       vars:
         BUNDLE_ID: "com.sociduos.hanhbwub"
-        XCODE_PROJECT: "CasinoRouletteDuo.xcodeproj"
-        XCODE_SCHEME: "CasinoRouletteDuo"
+        XCODE_PROJECT: "CasinoFiettoRoulette.xcodeproj"
+        XCODE_SCHEME: "CasinoFiettoRoulette"
         APP_STORE_APPLE_ID: 6743516738
       xcode: 16.0
 
